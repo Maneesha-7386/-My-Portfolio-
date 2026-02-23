@@ -6,16 +6,16 @@ const Projects = () => {
       id: 1,
       title: "Myntra Clone (E-commerce Website)",
       highlight: "A high-performance e-commerce platform with dynamic product listings and seamless UX.",
-      description: "A feature-rich fashion store application inspired by Myntra. It features a complete shopping experience from product discovery with advanced filters to cart management, all powered by a robust Redux state architecture.",
+      description: "A professional fashion store application built with React. It features a complete shopping experience from product discovery to cart management, all powered by a robust React state architecture.",
       role: [
-        "Architected scalability using React and Redux Toolkit",
-        "Implemented real-time data fetching with Axios & MockAPI",
-        "Designed a pixel-perfect, mobile-first UI with custom Vanilla CSS",
-        "Engineered complex filtering and search algorithms"
+        "Architected scalability using React components",
+        "Implemented real-time data fetching and state management",
+        "Designed a pixel-perfect, mobile-first UI with custom CSS",
+        "Engineered complex filtering and search functionality"
       ],
       tech: [
-        "React 19", "Redux Toolkit", "Vanilla CSS", "React Router 7",
-        "Vite", "Axios", "Custom SVGs", "MockAPI.io"
+        "React", "HTML5", "CSS3", "Responsive Design",
+        "Vite", "JavaScript", "Custom Components"
       ],
       features: [
         "Dynamic product filtering and multi-category sorting",
@@ -40,7 +40,7 @@ const Projects = () => {
         "Implemented highly accessible administrative UI",
         "Optimized data fetching and state synchronization"
       ],
-      tech: ["React", "Recharts", "Vanilla CSS", "Vite", "Redux Toolkit"],
+      tech: ["React", "Custom Charts", "CSS3", "Vite"],
       features: [
         "Comprehensive analytics dashboard with real-time charts",
         "Advanced user and product management (CRUD)",
@@ -57,14 +57,14 @@ const Projects = () => {
       id: 3,
       title: "Personal Portfolio – Brand Identity",
       highlight: "A premium, interactive portfolio showcasing modern frontend expertise.",
-      description: "A sleek and professional digital presence designed to highlight technical skills and project history. Featuring advanced CSS animations, smooth scrolling, and a dark-mode first aesthetic for maximum impact.",
+      description: "A sleek and professional digital presence designed to highlight technical expertise. Featuring custom CSS animations, smooth scrolling, and a modern aesthetic for maximum impact.",
       role: [
         "Crafted a unique design language and user experience",
         "Implemented efficient ScrollSpy and navigation logic",
         "Optimized asset loading and SEO performance",
         "Engineered responsive layouts for all device sizes"
       ],
-      tech: ["React 19", "Redux Toolkit", "Vanilla CSS (Animations)", "Vite", "IntersectionObserver API"],
+      tech: ["React", "HTML5", "CSS3 (Animations)", "Vite"],
       features: [
         "Interactive UI with smooth scroll and active link tracking",
         "Vibrant glassmorphism design and custom gradients",

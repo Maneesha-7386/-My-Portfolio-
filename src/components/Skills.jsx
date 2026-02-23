@@ -11,7 +11,7 @@ const Skills = () => {
           <div className="tech-col">
             <h2 className="skills-heading">Frontend Development</h2>
             <div className="bar-item">
-              <div className="bar-label">React.js (v19)</div>
+              <div className="bar-label">React</div>
               <div className="bar-track"><div className="bar-fill w-90"></div></div>
             </div>
             <div className="bar-item">
@@ -19,15 +19,11 @@ const Skills = () => {
               <div className="bar-track"><div className="bar-fill w-85"></div></div>
             </div>
             <div className="bar-item">
-              <div className="bar-label">Redux Toolkit</div>
-              <div className="bar-track"><div className="bar-fill w-90"></div></div>
-            </div>
-            <div className="bar-item">
-              <div className="bar-label">Vanilla CSS (Animations)</div>
+              <div className="bar-label">CSS3 (Animations)</div>
               <div className="bar-track"><div className="bar-fill w-95"></div></div>
             </div>
             <div className="bar-item">
-              <div className="bar-label">HTML5 & CSS3</div>
+              <div className="bar-label">HTML5</div>
               <div className="bar-track"><div className="bar-fill w-95"></div></div>
             </div>
           </div>
