@@ -23,7 +23,7 @@ const Skills = () => {
               <div className="bar-track"><div className="bar-fill w-90"></div></div>
             </div>
             <div className="bar-item">
-              <div className="bar-label">Tailwind CSS</div>
+              <div className="bar-label">Vanilla CSS (Animations)</div>
               <div className="bar-track"><div className="bar-fill w-95"></div></div>
             </div>
             <div className="bar-item">

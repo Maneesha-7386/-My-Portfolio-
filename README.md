@@ -6,11 +6,13 @@ This is my 3rd project, a professional portfolio website built to showcase my sk
 Check out the live site here: [https://portfolio-1234567.netlify.app/](https://portfolio-1234567.netlify.app/)
 
 ## Technologies Used
-- React.js
+- React 19
+- Redux Toolkit
+- React Router 7
+- Axios
 - Vite
-- Vanilla CSS
-- Framer Motion (for animations)
-- Lucide React (for icons)
+- Vanilla CSS (Custom Keyframe Animations)
+- Intersection Observer API (for scroll-based interactions)
 
 ## Features
 - **Responsive Design**: Optimized for all screen sizes (mobile, tablet, desktop).

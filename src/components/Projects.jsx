@@ -10,12 +10,12 @@ const Projects = () => {
       role: [
         "Architected scalability using React and Redux Toolkit",
         "Implemented real-time data fetching with Axios & MockAPI",
-        "Designed a pixel-perfect, mobile-first UI with Tailwind CSS",
+        "Designed a pixel-perfect, mobile-first UI with custom Vanilla CSS",
         "Engineered complex filtering and search algorithms"
       ],
       tech: [
-        "React 19", "Redux Toolkit", "Tailwind CSS", "React Router 7",
-        "Vite", "Axios", "Lucide Icons", "MockAPI.io"
+        "React 19", "Redux Toolkit", "Vanilla CSS", "React Router 7",
+        "Vite", "Axios", "Custom SVGs", "MockAPI.io"
       ],
       features: [
         "Dynamic product filtering and multi-category sorting",
@@ -40,7 +40,7 @@ const Projects = () => {
         "Implemented highly accessible administrative UI",
         "Optimized data fetching and state synchronization"
       ],
-      tech: ["React", "Recharts", "Lucide Icons", "Tailwind CSS", "Vite"],
+      tech: ["React", "Recharts", "Vanilla CSS", "Vite", "Redux Toolkit"],
       features: [
         "Comprehensive analytics dashboard with real-time charts",
         "Advanced user and product management (CRUD)",
@@ -64,7 +64,7 @@ const Projects = () => {
         "Optimized asset loading and SEO performance",
         "Engineered responsive layouts for all device sizes"
       ],
-      tech: ["React", "CSS3 (Animations)", "Vite", "JS (ES6+)", "IntersectionObserver"],
+      tech: ["React 19", "Redux Toolkit", "Vanilla CSS (Animations)", "Vite", "IntersectionObserver API"],
       features: [
         "Interactive UI with smooth scroll and active link tracking",
         "Vibrant glassmorphism design and custom gradients",
