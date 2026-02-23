@@ -1,16 +1,25 @@
-# React + Vite
+# Professional Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my 3rd project, a professional portfolio website built to showcase my skills and projects as a frontend developer.
 
-Currently, two official plugins are available:
+## Live Demo
+Check out the live site here: [https://portfolio-1234567.netlify.app/](https://portfolio-1234567.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- Vite
+- Vanilla CSS
+- Framer Motion (for animations)
+- Lucide React (for icons)
 
-## React Compiler
+## Features
+- **Responsive Design**: Optimized for all screen sizes (mobile, tablet, desktop).
+- **Interactive UI**: Smooth animations and hover effects for an engaging user experience.
+- **Projects Showcase**: Detailed section highlighting my work with tech badges and demo links.
+- **About & Skills**: Sections describing my background and technical expertise.
+- **Contact Form**: Direct way for recruiters and collaborators to get in touch.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run the development server: `npm run dev`
