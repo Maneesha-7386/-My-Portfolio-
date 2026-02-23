@@ -24,7 +24,7 @@ const Projects = () => {
         "Smooth page transitions and micro-interactions"
       ],
       liveLink: "https://m-y-n-t-r-a-c-l-o-n-e1e2e3s4h5a.netlify.app/",
-      repoLink: "https://github.com/maneesha-k/myntra-clone",
+      repoLink: "https://github.com/Maneesha-7386/myntra-clone.git",
       image: "/projects/myntra-clone.png",
       imageGradient: "linear-gradient(135deg, #8b5cf6, #ec4899)",
       icon: "🛍️",
@@ -48,7 +48,7 @@ const Projects = () => {
         "Dark mode optimized and fully responsive layout"
       ],
       liveLink: "https://admin-dash-board-1-2-3-4.netlify.app/#/login",
-      repoLink: "https://github.com/maneesha-k/admin-dashboard",
+      repoLink: "https://github.com/Maneesha-7386/admin-dash-board.git",
       image: "/projects/admin-dashboard.png",
       imageGradient: "linear-gradient(135deg, #00d2ff, #3a7bd5)",
       icon: "📊",
@@ -72,7 +72,7 @@ const Projects = () => {
         "Integrated contact system and social media links"
       ],
       liveLink: "https://portfolio-1234567.netlify.app/",
-      repoLink: "https://github.com/maneesha-k/portfolio",
+      repoLink: "https://github.com/Maneesha-7386/-My-Portfolio-.git",
       image: "/projects/personal-portfolio.png",
       imageGradient: "linear-gradient(135deg, #6a11cb, #2575fc)",
       icon: "👨‍💻",
